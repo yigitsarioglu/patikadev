@@ -1,2 +1,4 @@
-# patikadev
-Patika eğitimleri ödevleri ve projeleri bu repoda paylaşılacak
+# Patikadev Eğitimleri
+
+Patika eğitimleri ödevleri ve projeleri bu repoda paylaşılacak.
+
