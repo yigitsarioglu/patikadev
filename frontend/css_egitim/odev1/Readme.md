@@ -2,8 +2,8 @@
 
 ## Anasayfa Görüntüsü
 
-![Anasayfa](/images/anasayfa.jpg "Anasayfa")
+![Anasayfa](https://github.com/yigitsarioglu/patikadev/blob/main/frontend/css_egitim/odev1/images/anasayfa.jpg "Anasayfa")
 
 ## İletişim Sayfası
 
-![İletişim](/images/iletisim.jpg "İletişim")
+![İletişim]( https://github.com/yigitsarioglu/patikadev/blob/main/frontend/css_egitim/odev1/images/iletisim.jpg "İletişim")
